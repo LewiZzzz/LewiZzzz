@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LewiZzzz
 - 👀 I’m interested in ML, NLP, CV
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I look forward to sharing knowledge with you
 - 📫 WeChat 公众号: EVO空间
 
 <!---
